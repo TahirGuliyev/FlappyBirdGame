@@ -1,0 +1,4 @@
+#Tue Dec 20 01:45:38 AZT 2022
+base.0=C\:\\Users\\tahir\\Desktop\\Learning\\Unity Game\\FlappyBird\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
